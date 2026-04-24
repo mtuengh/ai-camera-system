@@ -1,0 +1,16 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# Node / React
+node_modules/
+dist/
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
